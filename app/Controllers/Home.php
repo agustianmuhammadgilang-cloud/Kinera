@@ -8,9 +8,4 @@ class Home extends BaseController
     {
         return view('welcome_message');
     }
-
-    public function gilang(): string
-    {
-        return view('gilang');
-    }
 }

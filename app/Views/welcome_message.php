@@ -240,7 +240,6 @@
     <h1>About this page</h1>
     <h1>Halaman Branch repan</h1>
     <h1>Halaman Branch Repan Binput</h1>
-    <p>infokan tauran terdekat</p>
 
     <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
